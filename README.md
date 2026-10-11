@@ -159,7 +159,7 @@ Sou uma desenvolvedora Back-End e estudante do 2° semestre de <strong>Análise 
 ###
 
 <div align="center">
-  <img width="100%" src="videoplayback.1772641295114.publer.com.giff" />
+  <img width="100%" src="videoplayback.1772641295114.publer.com.gif" />
 </div>
 
 ###
