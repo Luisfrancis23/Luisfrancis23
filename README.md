@@ -1,69 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Luis! 👋
 
-<!--
-**Luisfrancis23/Luisfrancis23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🇹🇱 From Timor Leste | 💻 Junior Full Stack Developer | 🌱 Always learning
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-<div align="center">
-  
-  <!-- Logo (replace with your actual logo URL) -->
-  <img src="https://via.placeholder.com/150x150?text=Pless+Logo" alt="Pless Logo" width="150" style="border-radius: 20px;">
-  
-  # ✦ PLESS ✦
-  
-  ### *aesthetic • modern • anime vibes*
-  
-  <!-- Anime banner (replace with your anime image URL) -->
-  <img src="https://via.placeholder.com/800x200?text=Anime+Aesthetic+Banner" alt="anime banner" width="800" style="border-radius: 16px;">
-  
-  <br>
-  
-  [![GitHub stars](https://img.shields.io/github/stars/yourname/yourrepo?style=for-the-badge&color=ff69b4)](https://github.com/yourname/yourrepo/stargazers)
-  [![GitHub forks](https://img.shields.io/github/forks/yourname/yourrepo?style=for-the-badge&color=ff85c1)](https://github.com/yourname/yourrepo/network)
-  [![License](https://img.shields.io/badge/license-MIT-pink?style=for-the-badge)](LICENSE)
-  
-</div>
+#### 🔭 I'm currently working on personal projects with JavaScript and Flask.  
+🌱 I'm diving deeper into TypeScript and React.  
+⚡ Fun fact: I love coding and exploring new tech!
 
 ---
 
-## 🌸 about
+### 🛠️ Tech Stack
 
-> **Pless** is a modern, lightweight tool with a soul – blending anime aesthetics and clean code.  
-> Built for dreamers and developers alike.
+##### 👩🏻‍💻 Tecnologias
 
-## ✨ features
+![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg) ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg) ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg) ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg) ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg) ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg) ![](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge) ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg)
 
-- 🖼️ **Centered logo & layouts** – pure visual harmony  
-- 🎴 **Anime‑inspired design** – soft gradients, pastel accents  
-- ⚡ **Fast & responsive** – because beauty shouldn't cost performance  
-- 🧩 **Easy to customize** – drop your own art and go  
+---
 
-## 🎨 preview
+[![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:funhacker00@example.com)
 
-<div align="center">
-  
-  <!-- Example anime screenshot / mockup -->
-  <img src="https://via.placeholder.com/600x300?text=Your+Anime+Screenshot+Here" alt="preview" width="80%" style="border-radius: 24px; box-shadow: 0 8px 20px rgba(0,0,0,0.1);">
-  
-</div>
+---
 
-## 📦 installation
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FunHacker00&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true)
+![](https://streak-stats.demolab.com?user=FunHacker00&locale=en&mode=daily&theme=dracula&hide_border=true)
+![](https://github-profile-trophy.vercel.app/?username=FunHacker00&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-readme-activity-graph.vercel.app/graph?username=FunHacker00&radius=16&theme=dracula&area=true)
 
-```bash
-git clone https://github.com/yourname/yourrepo.git
-cd yourrepo
-npm install   # or any other command
-npm start
+---
+
+[![](https://visitor-badge.laobi.icu/badge?page_id=FunHacker00.FunHacker00)](https://visitor-badge.laobi.icu)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=I%20love%20coding%20and%20exploring%20new%20tech!)](https://git.io/typing-svg)
+
+![Snake animation](https://raw.githubusercontent.com/FunHacker00/FunHacker00/output/snake.svg)
+
+![Pacman graph](https://raw.githubusercontent.com/FunHacker00/FunHacker00/output/pacman-contribution-graph.svg)
