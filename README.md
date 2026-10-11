@@ -19,7 +19,7 @@ Hello! I am FunHacker00, a passionate software developer with a keen interest in
 
 ## 🌐 Connect with Me
 
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** [Your LinkedIn]www.linkedin.com/in/francis-abel-28200a391)
 - **Twitter:** [@your_twitter_handle](https://twitter.com/your_twitter_handle)
 - **Email:** funhacker00@example.com
 
